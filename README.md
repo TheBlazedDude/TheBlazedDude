@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TheBlazedDude
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning Python
+- 👀 I’m highly interested in AI (PyTorch), Finances (Pay- & Subscription-Systems), Trading (Pinescript, Python, Rust) 
+- 🌱 I’m currently training on algorythmic Trading with my own Bot-systems
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
